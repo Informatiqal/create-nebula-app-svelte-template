@@ -34,7 +34,7 @@
     },
     "dependencies": {
         "@nebula.js/sn-bar-chart": "1.13.0",
-        "@nebula.js/stardust": "2.8.0",
+        "@nebula.js/stardust": "2.9.0",
         "enigma.js": "2.8.0",
         "qlik-saas-web-auth": "0.0.2"
     }

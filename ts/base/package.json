@@ -20,7 +20,7 @@
         "@types/qlik-engineapi": "12.67.12",
         "@web/test-runner": "0.13.27",
         "chai": "4.3.6",
-        "mocha": "9.2.2",
+        "mocha": "10.0.0",
         "postcss": "8.4.13",
         "postcss-load-config": "3.1.4",
         "postcss-preset-env": "7.5.0",

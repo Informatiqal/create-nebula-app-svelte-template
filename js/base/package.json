@@ -30,7 +30,7 @@
         "@rollup/plugin-typescript": "8.3.3"
     },
     "dependencies": {
-        "@nebula.js/sn-bar-chart": "1.22.4",
+        "@nebula.js/sn-bar-chart": "1.22.5",
         "@nebula.js/stardust": "2.12.0",
         "enigma.js": "2.9.0"
     }

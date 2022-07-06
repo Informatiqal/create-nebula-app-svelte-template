@@ -33,7 +33,7 @@
         "vite-web-test-runner-plugin": "0.1.0"
     },
     "dependencies": {
-        "@nebula.js/sn-bar-chart": "1.23.0",
+        "@nebula.js/sn-bar-chart": "1.23.1",
         "@nebula.js/stardust": "2.13.0",
         "enigma.js": "2.9.0",
         "qlik-saas-web-auth": "0.0.2"

@@ -18,7 +18,7 @@
         "svelte-preprocess": "4.10.7",
         "tslib": "2.4.0",
         "typescript": "4.7.4",
-        "vite": "2.9.13",
+        "vite": "2.9.14",
         "@types/enigma.js": "2.2.2",
         "@types/qlik-engineapi": "12.67.12",
         "vite-web-test-runner-plugin": "0.1.0",
